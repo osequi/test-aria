@@ -431,6 +431,13 @@
     "@babel/runtime" "^7.6.2"
     "@react-types/shared" "^3.2.1"
 
+"@react-stately/data@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@react-stately/data/-/data-3.1.2.tgz#3d743f3bdf2dd883ce9d4a78b86c39f99217129d"
+  dependencies:
+    "@babel/runtime" "^7.6.2"
+    "@react-types/shared" "^3.2.1"
+
 "@react-stately/list@^3.2.1", "@react-stately/list@^3.2.2":
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/@react-stately/list/-/list-3.2.2.tgz#fb368cc7678503179202d11aef0ef8d48d1cbf12"
@@ -3197,6 +3204,24 @@ react-is@16.13.1, react-is@^16.8.1:
 react-refresh@0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.3.tgz#721d4657672d400c5e3c75d063c4a85fb2d5d68f"
+
+react-stately@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/react-stately/-/react-stately-3.1.0.tgz#dc14a4820e442a91fd863c2daef90f904857883c"
+  dependencies:
+    "@react-stately/checkbox" "^3.0.1"
+    "@react-stately/collections" "^3.3.0"
+    "@react-stately/data" "^3.1.2"
+    "@react-stately/list" "^3.2.2"
+    "@react-stately/menu" "^3.2.1"
+    "@react-stately/overlays" "^3.1.1"
+    "@react-stately/radio" "^3.2.1"
+    "@react-stately/searchfield" "^3.1.1"
+    "@react-stately/select" "^3.1.1"
+    "@react-stately/selection" "^3.2.1"
+    "@react-stately/toggle" "^3.2.1"
+    "@react-stately/tooltip" "^3.0.1"
+    "@react-stately/tree" "^3.1.2"
 
 react@16.13.1:
   version "16.13.1"
