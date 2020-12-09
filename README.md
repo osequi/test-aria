@@ -8,6 +8,7 @@ Playin' with react-aria and react-stately.
 - Perhaps lost of things / customizations / adaptations for a new design system has to be done manually.
 - It's much better than React's Material UI. MUI is created by a bunch of individuals while this is backed up by a large corp.
 - If one day a classic UI is needed Adobe Spectrum is the to-go detination.
+- The whole stuff is very young (Summer 2020) and poorly documented. I mean the docs are fine, but cover only 1% of what's inside.
 
 ## react-stately
 
